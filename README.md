@@ -1,27 +1,27 @@
 # PT Sentral Layanan Prima
 
-Website profil PT Sentral Layanan Prima dengan informasi layanan pengelolaan fasilitas dan tenaga kerja.
+PT Sentral Layanan Prima company website with information about facility management and workforce services.
 
-**Status:** Live · [Buka website](https://pt-slp.co.id/)
+**Status:** Live · [Visit website](https://pt-slp.co.id/)
 
-## Fitur
+## Features
 
-- Layanan alih daya dan rekrutmen
-- Building, dormitory, dan parking management
-- Informasi training, profil perusahaan, dan kontak
+- Outsourcing and recruitment services
+- Building, dormitory, and parking management
+- Training information, company profile, and contact details
 
-## Teknologi
+## Technology
 
 HTML, CSS, JavaScript, PHP.
 
-## Menjalankan secara lokal
+## Running Locally
 
-Gunakan server Apache/PHP, misalnya XAMPP. Tempatkan salinan proyek pada document root dan buka `index.html` melalui localhost. Aturan `.htaccess`, jika tersedia, membutuhkan Apache dengan konfigurasi yang sesuai.
+Use an Apache/PHP server, such as XAMPP. Place a copy of the project in the document root and open `index.html` through localhost. Any `.htaccess` rules require an appropriately configured Apache server.
 
-## Formulir kontak
+## Contact Form
 
-`forms/contact.php` merujuk library PHP Email Form dari template asal. Library tersebut tidak tersedia pada salinan ini; pengiriman formulir membutuhkan library dan konfigurasi server yang sesuai.
+`forms/contact.php` references the PHP Email Form library from the original template. That library is not included in this copy; form submission requires the library and appropriate server configuration.
 
-## Catatan repository
+## Repository Notes
 
-Dependensi terpasang, cache, file `.env`, database, dan unggahan pengguna tidak disertakan. Nama merek dan aset pihak ketiga tetap mengikuti hak pemiliknya. Tidak ada lisensi penggunaan ulang yang diberikan melalui repository ini.
+Installed dependencies, caches, `.env` files, databases, and user uploads are not included. Brand names and third-party assets remain subject to their respective owners' rights. This repository does not grant a license for reuse.
