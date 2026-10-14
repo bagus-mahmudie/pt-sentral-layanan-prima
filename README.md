@@ -4,6 +4,10 @@ PT Sentral Layanan Prima company website with information about facility managem
 
 **Status:** Live · [Visit website](https://pt-slp.co.id/)
 
+## Preview
+
+[![PT Sentral Layanan Prima — application preview](docs/screenshots/project-preview.png)](docs/screenshots/project-preview.png)
+
 ## Features
 
 - Outsourcing and recruitment services
